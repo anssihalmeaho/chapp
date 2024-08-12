@@ -1,0 +1,6 @@
+[submodule "imported/httprouter"]
+	path = imported/httprouter
+	url = https://github.com/anssihalmeaho/httprouter.git
+[submodule "imported/trails"]
+	path = imported/trails
+	url = https://github.com/anssihalmeaho/trails.git
